@@ -4,7 +4,6 @@
 
 # Data Visualization with Python
 
-This is the final project for Course 8, _Python Project for Data Visualization_. Part of IBM's Data Analyst Professional Certificate from Coursera. Available here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
 
 ### Analyzing the wildfire activities in Australia
 
@@ -149,3 +148,7 @@ The directors of XYZAutomobiles have requested a dashboard to be developed so th
 ## Dashboard Demo
 
 ![Dashboard Demo](https://raw.githubusercontent.com/rheera/data-visualization-with-python/main/DashboardDemo.gif)
+
+This is the final project for Course 8, _Python Project for Data Visualization_. Part of IBM's Data Analyst Professional Certificate from Coursera. Available here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
+
+
